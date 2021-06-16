@@ -73,7 +73,7 @@ a{
 }
 
 .col-1 img{
-    width: 100%;
+    width: 120%;
 }
 
 .col-2 h1 {
@@ -100,7 +100,7 @@ span {
 
 .elements{
     position: absolute;
-    max-width: 30%;
+    max-width: 35%;
     left: -10%;
     top: 0%;
     animation: move 2.5s linear infinite;
@@ -149,7 +149,7 @@ span {
 
 .elements2 {
     position: absolute;
-    max-width: 40%;
+    max-width: 50%;
     left: 60%;
     top: -10%;
     animation: move 2.5s linear infinite;
